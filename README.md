@@ -7,9 +7,9 @@
      * Wanted test data
   2. Produce missing values
      * random missing value
-  3. Bulid glrm model(glrm : Generalized Low Rank Models)
+  3. Build glrm model(glrm : Generalized Low Rank Models)
 ## Bike Sharing Demand
-* Bulid the regression model
+* Build the regression model
 * Step
   1. EDA(Exploratory Data Analysis)
   2. Add time variables
